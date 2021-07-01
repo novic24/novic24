@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @novic24
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning React.js, MongoDB, Node.js, Java, C, R, Python, JavaScript, HTML and CSS
+- 👀 I’m interested in Full Stack Quality Assurance
+- 🌱 I’m currently learning React.js, MongoDB, Node.js, Java, C, R, Python, JavaScript, HTML, CSS and all the world that involves QA
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me: novic24@gmail.com
 
