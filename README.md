@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @novic24
 - 👀 I’m interested in Full Stack Quality Assurance
-- 🌱 I’m currently learning React.js, MongoDB, Node.js, Java, C, R, Python, JavaScript, HTML, CSS and all the world that involves QA
+- 🌱 My IT skills: 
+    SCRUM, Agile, CI/CD, Bitbucket, Jira, Kanban, Confluence, Git and GitHub, DDD.
+    JavaScript, Java, C, HTML, CSS
+    SQL, R
+    Selenium, Chai, Mocha
+    MongoDB, Express.js, React, Node.js
+
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me: novic24@gmail.com
 
