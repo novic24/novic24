@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @novic24
+- 👋 Hi, my name is Adrià Batlle
 - 👀 I’m interested in Full Stack Quality Assurance
 - 🌱 My IT skills: 
     SCRUM, Agile, CI/CD, Bitbucket, Jira, Kanban, Confluence, Git and GitHub, DDD.
